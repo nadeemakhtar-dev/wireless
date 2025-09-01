@@ -4,6 +4,7 @@
 It brings scanning, advertising, iBeacon, and GATT server tools together in a sleek, dark UI — so you can prototype and debug faster.
 
 ---
+## 🌐 Web - https://wireless.fittech.in/
 
 ## ✨ Features
 
@@ -16,6 +17,10 @@ It brings scanning, advertising, iBeacon, and GATT server tools together in a sl
 - 🧪 **QA Tools** — session logging, export, and quick presets for repeatable testing.  
 
 ---
+
+##  📁 Documentation for wireless
+
+- 🌐 **Documentation url - https://wireless.fittech.in/docs.html
 
 ## 🚀 Platforms
 
