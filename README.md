@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📡 wireless — BLE Workbench
 
 **wireless** is an all-in-one Bluetooth Low Energy (BLE) toolkit for developers, QA engineers, and hardware teams.  
