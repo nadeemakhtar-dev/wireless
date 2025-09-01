@@ -61,9 +61,9 @@ Clone and install dependencies:
 git clone https://github.com/yourusername/wireless.git
 cd wireless
 # Install dependencies
-npm install
-# Run dev server
-npm run dev
+pub get
+#Face any issue run
+flutter doctor
 =======
 # wireless
 
