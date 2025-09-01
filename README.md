@@ -35,11 +35,11 @@ It brings scanning, advertising, iBeacon, and GATT server tools together in a sl
 
 | BLE Scan | iBeacon | Advertiser |
 |----------|---------|------------|
-| ![BLE Scan](images/screenshots/image1.JPG) | ![iBeacon](images/screenshots/image2.JPG) | ![Advertiser](images/screenshots/image3.JPG) |
+| ![BLE Scan](screenshots/image1.JPG) | ![iBeacon](screenshots/image2.JPG) | ![Advertiser](screenshots/image3.JPG) |
 
 | Settings | Radar Scan | QR Connect |
 |----------|------------|------------|
-| ![Settings](images/screenshots/image4.JPG) | ![Radar](images/screenshots/image5.JPG) | ![QR Connect](images/screenshots/image6.JPG) |
+| ![Settings](screenshots/image4.JPG) | ![Radar](screenshots/image5.JPG) | ![QR Connect](screenshots/image6.JPG) |
 
 ---
 
